@@ -39,7 +39,8 @@ function FindProxyForURL(url, host){
 "statis.api.3g.youku.com",
 "atm.youku.com",
 "stat.youku.com",
-"*miaozhen.com*",
+"*miaozhen*com*",
+"*qiyi*com*",
 //<sohu>
 "agn.aty.sohu.com",
 "mmg.aty.sohu.com",
