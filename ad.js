@@ -40,7 +40,7 @@ function FindProxyForURL(url, host){
 "atm.youku.com",
 "stat.youku.com",
 "*miaozhen*com*",
-"qiyi.com",
+"www.iqiyi.com",
 "*qq.com*",
 //<sohu>
 "agn.aty.sohu.com",
